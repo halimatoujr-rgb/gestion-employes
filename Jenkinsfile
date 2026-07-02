@@ -14,7 +14,7 @@ pipeline {
     }
 
     stages {
-        // minaa ohayoo
+        // minaa ohayoo oreiwaa Limaah
         // Checkout code source Backend + Frontend
         stage('Checkout Backend + Frontend') {
             steps {
